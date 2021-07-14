@@ -1,2 +1,2 @@
 # Enchanting Kata
-A starting point for the Enchanting Kata, as created by Giulio Perrone (@pepperrone).
+A starting point in C# for the Enchanting Kata, as created by Giulio Perrone (@pepperrone).
